@@ -1,4 +1,5 @@
 ## About
+![Drag Racing](28193.JPG)
 
 Hi! I'm a PhD candidate at School of Computing, National University of Singapore. My PhD adviser is [Prof Kuldeep S Meel](https://www.comp.nus.edu.sg/~meel/). My research topics include Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
 
