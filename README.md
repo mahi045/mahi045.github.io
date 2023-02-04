@@ -1,6 +1,6 @@
 ## About
 
-Hi! I'm a PhD candidate at School of Computing, National University of Singapore. My PhD adviser is [Prof Kuldeep S Meel](https://www.comp.nus.edu.sg/~meel/).
+Hi! I'm a PhD candidate at School of Computing, National University of Singapore. My PhD adviser is [Prof Kuldeep S Meel](https://www.comp.nus.edu.sg/~meel/). My research topics include Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
 
 ## Education
 - PhD candidate in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
@@ -11,9 +11,10 @@ Hi! I'm a PhD candidate at School of Computing, National University of Singapore
     - Duration: 2013-2017
 
 ## Publication
-- **Mohimenul Kabir**, Everardo, F. O., Shukla, A. K., Hecher, M., Fichte, J. K., & Meel, K. S. (2022). ApproxASP – a Scalable Approximate Answer Set Counter. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(5), 5755-5764. ([Paper](https://doi.org/10.1609/aaai.v36i5.20518),[code](https://github.com/meelgroup/ApproxASP2)) (**Invited for presentation in ICLP 2022**)
+- **Mohimenul Kabir**, Everardo, F. O., Shukla, A. K., Hecher, M., Fichte, J. K., & Meel, K. S. (2022). ApproxASP – a Scalable Approximate Answer Set Counter. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(5), 5755-5764. ([Paper](https://doi.org/10.1609/aaai.v36i5.20518),[code](https://github.com/meelgroup/ApproxASP2)) (**Invited for presentation in ICLP 2022 and SAT + SMT 2022**)
 - Tripto, Nafis Irtiza, **Mohimenul Kabir**, Md Shamsuzzoha Bayzid, and Atif Rahman. "Evaluation of classification and forecasting methods on time series gene expression data." _Plos one_ 15, no. 11 (2020): e0241686. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241686))
 - Akon, Mujtahid, Muntashir Akon, **Mohimenul Kabir**, M. Saifur Rahman, and M. Sohel Rahman. "ADACT: a tool for analysing (dis) similarity among nucleotide and protein sequences using minimal and relative absent words." _Bioinformatics_ (2020). ([Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa853/5918021?login=true))
 - Azim, Md Aashikur Rahman, **Mohimenul Kabir**, and M. Sohel Rahman. "A simple, fast, filter-based algorithm for circular sequence comparison." _International Workshop on Algorithms and Computation_. Springer, Cham, 2018. ([Paper](https://drive.google.com/file/d/1LTctT55GkXiIZgh__2UEn3u5dvGwJQem/view?usp=sharing))
 
-
+## Preprint
+- **Mohimenul Kabir**, Mobin, J., Hassanat, A., & Rahman, M. S. (2023). Image Contrast Enhancement using Fuzzy Technique with Parameter Determination using Metaheuristics. ([Paper](https://arxiv.org/abs/2301.12682))
