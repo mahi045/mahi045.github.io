@@ -12,6 +12,7 @@ Hi! I'm a PhD candidate at School of Computing, National University of Singapore
     - Duration: 2013-2017
 
 ## Publication
+- **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Exact ASP Counting with Compact Encodings." To appear in _AAAI 2024_ ([Paper](https://arxiv.org/pdf/2312.11936.pdf),[code](https://github.com/meelgroup/sharpASP))
 - **Mohimenul Kabir** and Kuldeep S. Meel. "A Fast and Accurate ASP Counting Based Network Reliability Estimator." In _Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning_, vol. 94, pp. 270-287. 2023. ([Paper](https://easychair.org/publications/paper/8zhh))
 - **Mohimenul Kabir**, Jaiaid Mobin, Muhammad Ali Nayeem, Muhammad Ahsanul Habib, and M. Sohel Rahman. "Multi-objective optimization and heuristic based solutions for evacuation modeling." _Transportation Research Interdisciplinary Perspectives_ (2023). ([Paper](https://www.sciencedirect.com/science/article/pii/S2590198223000453))
 - **Mohimenul Kabir**, Everardo, F. O., Shukla, A. K., Hecher, M., Fichte, J. K., & Meel, K. S. (2022). ApproxASP – a Scalable Approximate Answer Set Counter. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(5), 5755-5764. ([Paper](https://doi.org/10.1609/aaai.v36i5.20518),[code](https://github.com/meelgroup/ApproxASP2)) (**Invited for presentation in ICLP 2022 and SAT + SMT 2022**)
