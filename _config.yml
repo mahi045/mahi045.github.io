@@ -1,7 +1,22 @@
-url: https://mahi045.github.io/
-title: Mohimenul Kabir
-theme: jekyll-theme-dinky
-google_analytics: UA-129293956-1
-contact: 
-  email: mahibuet045@gmail.com
-  linkedin: https://www.linkedin.com/in/mohimenul-mahi-205490147/
+title: Yash Pote
+url: "https://yashpote.com"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Theme"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "cv-yash.pdf"
+ - name: "Statement"
+   link: "statement-yash.pdf"

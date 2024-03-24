@@ -1,24 +1,60 @@
-## About
-<img src="28193.JPG" alt="drawing" width="200" center/>
+# Researcher
 
-Hi! I'm a PhD candidate at School of Computing, National University of Singapore. My PhD adviser is [Prof Kuldeep S Meel](https://www.comp.nus.edu.sg/~meel/). My research topics include Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
+### [Demo Website](http://ankitsultana.com/researcher)
 
-## Education
-- PhD candidate in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
-    - Start Year: Fall 2020
-    
--  B.Sc. degree in Computer Science & Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/)
-    - Thesis Supervisor: [M Sohel Rahman](https://scholar.google.com/citations?user=IUwFD9gAAAAJ&hl=en)
-    - Duration: 2013-2017
+A clean, single column, monospace resume template built for jekyll
 
-## Publication
-- **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Exact ASP Counting with Compact Encodings." To appear in _AAAI 2024_ ([Paper](https://arxiv.org/pdf/2312.11936.pdf),[code](https://github.com/meelgroup/sharpASP))
-- **Mohimenul Kabir** and Kuldeep S. Meel. "A Fast and Accurate ASP Counting Based Network Reliability Estimator." In _Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning_, vol. 94, pp. 270-287. 2023. ([Paper](https://easychair.org/publications/paper/8zhh))
-- **Mohimenul Kabir**, Jaiaid Mobin, Muhammad Ali Nayeem, Muhammad Ahsanul Habib, and M. Sohel Rahman. "Multi-objective optimization and heuristic based solutions for evacuation modeling." _Transportation Research Interdisciplinary Perspectives_ (2023). ([Paper](https://www.sciencedirect.com/science/article/pii/S2590198223000453))
-- **Mohimenul Kabir**, Everardo, F. O., Shukla, A. K., Hecher, M., Fichte, J. K., & Meel, K. S. (2022). ApproxASP – a Scalable Approximate Answer Set Counter. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(5), 5755-5764. ([Paper](https://doi.org/10.1609/aaai.v36i5.20518),[code](https://github.com/meelgroup/ApproxASP2)) (**Invited for presentation in ICLP 2022 and SAT + SMT 2022**)
-- Tripto, Nafis Irtiza, **Mohimenul Kabir**, Md Shamsuzzoha Bayzid, and Atif Rahman. "Evaluation of classification and forecasting methods on time series gene expression data." _Plos one_ 15, no. 11 (2020): e0241686. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241686))
-- Akon, Mujtahid, Muntashir Akon, **Mohimenul Kabir**, M. Saifur Rahman, and M. Sohel Rahman. "ADACT: a tool for analysing (dis) similarity among nucleotide and protein sequences using minimal and relative absent words." _Bioinformatics_ (2020). ([Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa853/5918021?login=true))
-- Azim, Md Aashikur Rahman, **Mohimenul Kabir**, and M. Sohel Rahman. "A simple, fast, filter-based algorithm for circular sequence comparison." _International Workshop on Algorithms and Computation_. Springer, Cham, 2018. ([Paper](https://drive.google.com/file/d/1LTctT55GkXiIZgh__2UEn3u5dvGwJQem/view?usp=sharing))
+### Installation
 
-## Preprint
-- **Mohimenul Kabir**, Mobin, J., Hassanat, A., & Rahman, M. S. (2023). Image Contrast Enhancement using Fuzzy Technique with Parameter Determination using Metaheuristics. ([Paper](https://arxiv.org/abs/2301.12682))
+Simply fork the repository and edit away.
+
+#### Installation via remote themes
+
+* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
+you would build your site locally for testing. If you know how, open up an issue and let me know.
+* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+
+### Customization
+
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+
+* You can of course remove `contact.md` if you don't want it
+
+* To set the heading, edit the `title` variable in `_config.yml`
+
+* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+
+```
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+```
+
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
+
+* You can remove/customize the footer as you like by setting the
+appropriate variables in `_config.yml`
+
+* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
+to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
+value
+
+![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+
+### License
+
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
