@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="mahi.jpg" height="45" width="45">
+<img class="profile-picture" src="mahi.jpg" height="45" width="38">
 
 I am a fourth year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
 
