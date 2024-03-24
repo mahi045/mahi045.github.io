@@ -1,5 +1,5 @@
-title: Yash Pote
-url: "https://yashpote.com"
+title: Mohimenul Kabir
+url: "https://mahi045.github.io/"
 baseurl: "/"
 
 markdown: kramdown
@@ -17,6 +17,6 @@ sass:
 
 nav:
  - name: "CV"
-   link: "cv-yash.pdf"
- - name: "Statement"
-   link: "statement-yash.pdf"
+   link: "CV.pdf"
+ - name: "Google Scholar"
+   link: https://scholar.google.com/citations?user=kuoUnVIAAAAJ&hl=en

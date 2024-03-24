@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="mahi.jpg" height="42" width="42">
+<img class="profile-picture" src="mahi.jpg" height="45" width="45">
 
 I am a fourth year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
 
@@ -12,6 +12,16 @@ My research topics include Answer Set Programming, Logic Programming, Formal Met
 
 Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahibuet045@gmail.com).
 
+
+---
+
+## Education
+- PhD candidate in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
+    - Start Year: Fall 2020
+    
+-  B.Sc. degree in Computer Science & Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/)
+    - Thesis Supervisor: [M Sohel Rahman](https://scholar.google.com/citations?user=IUwFD9gAAAAJ&hl=en)
+    - Duration: 2013-2017
 
 ---
 ## Publications
