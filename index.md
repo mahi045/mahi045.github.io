@@ -26,7 +26,7 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ---
 ## Publications
 
-- **Mohimenul Kabir**, and Kuldeep S. Meel. "On Lower Bounding Minimal Model Count." To appear in _Theory and Practice of Logic Programming_ ([Paper](https://arxiv.org/pdf/2407.09744)).
+- **Mohimenul Kabir**, and Kuldeep S. Meel. "On Lower Bounding Minimal Model Count." To appear in _Theory and Practice of Logic Programming_ ([Paper](https://arxiv.org/pdf/2407.09744), [code](https://github.com/meelgroup/minLB), [slide](slides/minLB.pdf)) (**Best Paper Award of ICLP 2024**)
 - **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Exact ASP Counting with Compact Encodings." In _Proceedings of the AAAI Conference on Artificial Intelligence_, vol. 38, no. 9, pp. 10571-10580. 2024. ([Paper](https://arxiv.org/pdf/2312.11936.pdf),[code](https://github.com/meelgroup/sharpASP)) (**Invited for MCW 2024**)
 - **Mohimenul Kabir** and Kuldeep S. Meel. "A Fast and Accurate ASP Counting Based Network Reliability Estimator." In _Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning_, vol. 94, pp. 270-287. 2023. ([Paper](https://easychair.org/publications/paper/8zhh)) (**Invited for MCW 2023**)
 - **Mohimenul Kabir**, Jaiaid Mobin, Muhammad Ali Nayeem, Muhammad Ahsanul Habib, and M. Sohel Rahman. "Multi-objective optimization and heuristic based solutions for evacuation modeling." _Transportation Research Interdisciplinary Perspectives_ (2023). ([Paper](https://www.sciencedirect.com/science/article/pii/S2590198223000453))
