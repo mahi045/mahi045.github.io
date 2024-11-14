@@ -12,6 +12,8 @@ My research topics include Answer Set Programming, Logic Programming, Formal Met
 
 Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahibuet045@gmail.com).
 
+**I am on academic job market (Postdoc or Faculty position)**
+
 
 ---
 
