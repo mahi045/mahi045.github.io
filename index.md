@@ -28,6 +28,7 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ---
 ## Publications
 
+- **Mohimenul Kabir**, Jaiaid Mobin, Ahmad Hassanat, and M. Sohel Rahman. "Image Contrast Enhancement using Fuzzy Logic with Metaheuristics." In _Proceedings of the 11th International Conference on Networking, Systems, and Security_, pp. 163-171. 2024. ([Paper](https://dl.acm.org/doi/10.1145/3704522.3704542), [code](https://bitbucket.org/mahi045/image-enhancement/src/master/), [slide](nsys2024presentation.pdf)) (**Best Student Paper Award of NSysS 2024**)
 - **Mohimenul Kabir**, and Kuldeep S. Meel. "On Lower Bounding Minimal Model Count." To appear in _Theory and Practice of Logic Programming_ ([Paper](https://arxiv.org/pdf/2407.09744), [code](https://github.com/meelgroup/minLB), [slide](minLB.pdf)) (**Best Paper Award of ICLP 2024**)
 - **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Exact ASP Counting with Compact Encodings." In _Proceedings of the AAAI Conference on Artificial Intelligence_, vol. 38, no. 9, pp. 10571-10580. 2024. ([Paper](https://arxiv.org/pdf/2312.11936.pdf),[code](https://github.com/meelgroup/sharpASP)) (**Invited for MCW 2024**)
 - **Mohimenul Kabir** and Kuldeep S. Meel. "A Fast and Accurate ASP Counting Based Network Reliability Estimator." In _Proceedings of 24th International Conference on Logic for Programming, Artificial Intelligence and Reasoning_, vol. 94, pp. 270-287. 2023. ([Paper](https://easychair.org/publications/paper/8zhh)) (**Invited for MCW 2023**)
@@ -39,7 +40,6 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 
 ### Preprint
 - **Mohimenul Kabir** (2024). Minimal Model Counting via Knowledge Compilation. ([Paper](https://arxiv.org/abs/2409.10170))
-- **Mohimenul Kabir**, Mobin, J., Hassanat, A., & Rahman, M. S. (2023). Image Contrast Enhancement using Fuzzy Technique with Parameter Determination using Metaheuristics. ([Paper](https://arxiv.org/abs/2301.12682))
 
 ----
 
