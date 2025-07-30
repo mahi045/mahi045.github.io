@@ -28,11 +28,11 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ---
 ## Publications
 
-- **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Counting Answer Sets of Disjunctive Answer Set Programs." To appear in _ICLP 2025 (TPLP special issue)_ ([paper](https://www.arxiv.org/abs/2507.11655) [code](https://github.com/meelgroup/SharpASP-SR))
+- **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Counting Answer Sets of Disjunctive Answer Set Programs." To appear in _ICLP 2025 (TPLP special issue)_ ([paper](https://www.arxiv.org/abs/2507.11655), [code](https://github.com/meelgroup/SharpASP-SR))
 - **Mohimenul Kabir**, and Kuldeep S. Meel. "A Simple and Effective ASP-Based Tool for Enumerating Minimal Hitting Sets." To appear in _ICLP 2025_ 
-([paper](https://arxiv.org/abs/2507.09194) [tool](https://zenodo.org/records/15104697))
+([paper](https://arxiv.org/abs/2507.09194), [tool](https://zenodo.org/records/15104697))
 - **Mohimenul Kabir**, and Kuldeep S. Meel. "An ASP-Based Framework for MUSes." To appear in _ICLP 2025_ ([paper](https://arxiv.org/abs/2507.03929))
-- **Mohimenul Kabir**, Van-Giang Trinh, Samuel Pastva, and Kuldeep S. Meel. "Scalable Counting of Minimal Trap Spaces and Fixed Points in Boolean Networks." To appear in _CP 2025_ ([paper](https://arxiv.org/pdf/2506.06013) [code](https://github.com/meelgroup/bn-counting))
+- **Mohimenul Kabir**, Van-Giang Trinh, Samuel Pastva, and Kuldeep S. Meel. "Scalable Counting of Minimal Trap Spaces and Fixed Points in Boolean Networks." To appear in _CP 2025_ ([paper](https://arxiv.org/pdf/2506.06013),  [code](https://github.com/meelgroup/bn-counting))
 - **Mohimenul Kabir**, Jaiaid Mobin, Ahmad Hassanat, and M. Sohel Rahman. "Image Contrast Enhancement using Fuzzy Logic with Metaheuristics." In _Proceedings of the 11th International Conference on Networking, Systems, and Security_, pp. 163-171. 2024. ([Paper](https://dl.acm.org/doi/10.1145/3704522.3704542), [code](https://bitbucket.org/mahi045/image-enhancement/src/master/), [slide](nsys2024presentation.pdf)) (**Best Student Paper Award of NSysS 2024**)
 - **Mohimenul Kabir**, and Kuldeep S. Meel. "On Lower Bounding Minimal Model Count." _Theory and Practice of Logic Programming_ ([Paper](https://arxiv.org/pdf/2407.09744), [code](https://github.com/meelgroup/minLB), [slide](minLB.pdf)) (**Best Paper Award of ICLP 2024**)
 - **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Exact ASP Counting with Compact Encodings." In _Proceedings of the AAAI Conference on Artificial Intelligence_, vol. 38, no. 9, pp. 10571-10580. 2024. ([Paper](https://arxiv.org/pdf/2312.11936.pdf),[code](https://github.com/meelgroup/sharpASP)) (**Invited for MCW 2024**)
