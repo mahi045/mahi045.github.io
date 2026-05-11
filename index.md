@@ -5,14 +5,13 @@ layout: default
 
 <img class="profile-picture" src="mahi.jpg" height="45" width="38">
 
-I am a fourth year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
+I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
 
-My research topics include Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
+My research topics include Neuro-Symbolic Reasoning, Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
 
 
 Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahibuet045@gmail.com).
 
-**I am on academic job market (Postdoc or Faculty position)**
 
 
 ---
@@ -29,9 +28,9 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ## Publications
 
 - **Mohimenul Kabir**, Supratik Chakraborty, and Kuldeep S. Meel. "Counting Answer Sets of Disjunctive Answer Set Programs." _ICLP 2025 (TPLP special issue)_ ([paper](https://www.arxiv.org/abs/2507.11655), [code](https://github.com/meelgroup/SharpASP-SR), [slide](sharpasp_sr_Kabir.pdf))
-- **Mohimenul Kabir**, and Kuldeep S. Meel. "A Simple and Effective ASP-Based Tool for Enumerating Minimal Hitting Sets." To appear in _ICLP 2025_ 
+- **Mohimenul Kabir**, and Kuldeep S. Meel. "A Simple and Effective ASP-Based Tool for Enumerating Minimal Hitting Sets." _ICLP 2025_ 
 ([paper](https://arxiv.org/abs/2507.09194), [tool](https://zenodo.org/records/15104697), [slide](mhs-asp_Kabir.pdf))
-- **Mohimenul Kabir**, and Kuldeep S. Meel. "An ASP-Based Framework for MUSes." To appear in _ICLP 2025_ ([paper](https://arxiv.org/abs/2507.03929), [tool](https://zenodo.org/records/15300472), [slide](mus-asp_Kabir.pdf))
+- **Mohimenul Kabir**, and Kuldeep S. Meel. "An ASP-Based Framework for MUSes." _ICLP 2025_ ([paper](https://arxiv.org/abs/2507.03929), [tool](https://zenodo.org/records/15300472), [slide](mus-asp_Kabir.pdf))
 - **Mohimenul Kabir**, Van-Giang Trinh, Samuel Pastva, and Kuldeep S. Meel. "Scalable Counting of Minimal Trap Spaces and Fixed Points in Boolean Networks." _CP 2025_ ([paper](https://arxiv.org/pdf/2506.06013),  [code](https://github.com/meelgroup/bn-counting),[slide](counting_bn_talk.pdf))
 - **Mohimenul Kabir**, Jaiaid Mobin, Ahmad Hassanat, and M. Sohel Rahman. "Image Contrast Enhancement using Fuzzy Logic with Metaheuristics." In _Proceedings of the 11th International Conference on Networking, Systems, and Security_, pp. 163-171. 2024. ([Paper](https://dl.acm.org/doi/10.1145/3704522.3704542), [code](https://bitbucket.org/mahi045/image-enhancement/src/master/), [slide](nsys2024presentation.pdf)) (**Best Student Paper Award of NSysS 2024**)
 - **Mohimenul Kabir**, and Kuldeep S. Meel. "On Lower Bounding Minimal Model Count." _Theory and Practice of Logic Programming_ ([Paper](https://arxiv.org/pdf/2407.09744), [code](https://github.com/meelgroup/minLB), [slide](minLB.pdf)) (**Best Paper Award of ICLP 2024**)
