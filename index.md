@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="mahi.jpg" height="45" width="38">
 
-I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
+I am a Research Fellow at Monash University, Australia, where I am fortunate to be advised by [Peter Stuckey](https://research.monash.edu/en/persons/peter-stuckey/) and [Alexey Ignatiev](https://alexeyignatiev.github.io/).
 
 My research topics include Neuro-Symbolic Reasoning, Answer Set Programming, Logic Programming, Formal Method, Metaheuristic.
 
@@ -17,8 +17,9 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ---
 
 ## Education
-- PhD candidate in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
-    - Start Year: Fall 2020
+- PhD in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
+    - Thesis Advisor: [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/)
+    - Duration: 2020-2026
     
 -  B.Sc. degree in Computer Science & Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/)
     - Thesis Supervisor: [M Sohel Rahman](https://scholar.google.com/citations?user=IUwFD9gAAAAJ&hl=en)
@@ -46,7 +47,3 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 - **Mohimenul Kabir** (2024). Minimal Model Counting via Knowledge Compilation. ([Paper](https://arxiv.org/abs/2409.10170))
 
 ----
-
-## Research Group
-
-I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in NUS and the [University of Toronto](https://www.utoronto.ca/). 
