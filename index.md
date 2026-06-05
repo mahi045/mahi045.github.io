@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="mahi.jpg" height="45" width="38">
+<img class="profile-picture" src="mahi.jpg" height="45" width="37">
 
 I am a Research Fellow at Monash University, Australia, where I am fortunate to be advised by [Peter Stuckey](https://research.monash.edu/en/persons/peter-stuckey/) and [Alexey Ignatiev](https://alexeyignatiev.github.io/).
 
@@ -19,6 +19,7 @@ Here is my [CV](CV.pdf). You can reach me at [mahibuet045@gmail.com](mailto:mahi
 ## Education
 - PhD in Computer Science, School of Computing, [National University of Singapore](https://www.nus.edu.sg/) 
     - Thesis Advisor: [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/)
+    - Thesis Title: Answer Set Counting and its Applications [Thesis](https://scholarbank.nus.edu.sg/entities/publication/23c04474-64a4-4afb-ba40-2fe08ce5830f)
     - Duration: 2020-2026
     
 -  B.Sc. degree in Computer Science & Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/)
